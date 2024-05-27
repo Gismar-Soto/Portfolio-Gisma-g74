@@ -14,6 +14,8 @@ Dejo los forks realizados, ya que me cerraron mi cuenta principal (GISMAR-DIAZ).
 4to Fork
 ![image](https://github.com/Gismar-Soto/Portfolio-Gisma-g74/assets/170896819/77e05db4-3179-44e2-877f-7db965dc886c)
 
+![image](https://github.com/Gismar-Soto/Portfolio-Gisma-g74/assets/170896819/d0617c06-051a-4385-9b43-4960b8337a0b)
+
 -----> Los que me hicieron <-----
 
 Acepte 1 cambio realizado por cafaral 
