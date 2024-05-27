@@ -7,10 +7,12 @@ Dejo los forks realizados, ya que me cerraron mi cuenta principal (GISMAR-DIAZ).
 2do Fork 
 ![image](https://github.com/Gismar-Soto/Portfolio-Gisma-g74/assets/170896819/f9489846-59c8-47e9-ae18-997ec7abdf29)
 
-  3er Fork desde la cuenta de reslpado 
+3er Fork desde la cuenta de reslpado 
   
   ![image](https://github.com/Gismar-Soto/Portfolio-Gisma-g74/assets/170896819/a6e09656-1f1f-4027-9306-b160a41d9e09)
 
+4to Fork
+![image](https://github.com/Gismar-Soto/Portfolio-Gisma-g74/assets/170896819/77e05db4-3179-44e2-877f-7db965dc886c)
 
 -----> Los que me hicieron <-----
 
