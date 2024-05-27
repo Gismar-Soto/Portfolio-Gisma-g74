@@ -1,10 +1,16 @@
 # Final_git_gismar
+Dejo los forks realizados, ya que me cerraron mi cuenta principal (GISMAR-DIAZ). Debí crear esta de respaldo."
+
 1er Fork
-Dejo espaldo de los forks realizados, ya que me cerraron mi cuenta principal (GISMAR-DIAZ). Debí crear esta de respaldo."
 ![image](https://github.com/Gismar-Soto/Portfolio-Gisma-g74/assets/170896819/02f7f0cf-9025-4aa0-9c49-c9d31d74450e)
 
 2do Fork 
 ![image](https://github.com/Gismar-Soto/Portfolio-Gisma-g74/assets/170896819/f9489846-59c8-47e9-ae18-997ec7abdf29)
+
+  3er Fork desde la cuenta de reslpado 
+  
+  ![image](https://github.com/Gismar-Soto/Portfolio-Gisma-g74/assets/170896819/a6e09656-1f1f-4027-9306-b160a41d9e09)
+
 
 -----> Los que me hicieron <-----
 
