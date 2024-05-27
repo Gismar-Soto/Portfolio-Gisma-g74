@@ -611,18 +611,6 @@ progress {
   content: "— ";
 }
 
-.icon-btn {
-  width: 60px;
-  height: 60px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.icon-btn i {
-  font-size: 2rem; 
-}
-
 .img-fluid {
   max-width: 100%;
   height: auto;
